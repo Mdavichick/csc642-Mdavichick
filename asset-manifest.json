@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/csc642-Mdavichick/static/css/main.eac18c9e.chunk.css",
-    "main.js": "/csc642-Mdavichick/static/js/main.6f3dc8e9.chunk.js",
-    "main.js.map": "/csc642-Mdavichick/static/js/main.6f3dc8e9.chunk.js.map",
+    "main.js": "/csc642-Mdavichick/static/js/main.c9f4a65b.chunk.js",
+    "main.js.map": "/csc642-Mdavichick/static/js/main.c9f4a65b.chunk.js.map",
     "runtime-main.js": "/csc642-Mdavichick/static/js/runtime-main.9a723036.js",
     "runtime-main.js.map": "/csc642-Mdavichick/static/js/runtime-main.9a723036.js.map",
     "static/js/2.3137c0e1.chunk.js": "/csc642-Mdavichick/static/js/2.3137c0e1.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.9a723036.js",
     "static/js/2.3137c0e1.chunk.js",
     "static/css/main.eac18c9e.chunk.css",
-    "static/js/main.6f3dc8e9.chunk.js"
+    "static/js/main.c9f4a65b.chunk.js"
   ]
 }
