@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/csc642-Mdavichick/static/css/main.a617e044.chunk.css",
+    "main.js": "/csc642-Mdavichick/static/js/main.94079967.chunk.js",
+    "main.js.map": "/csc642-Mdavichick/static/js/main.94079967.chunk.js.map",
+    "runtime-main.js": "/csc642-Mdavichick/static/js/runtime-main.42ba1dc1.js",
+    "runtime-main.js.map": "/csc642-Mdavichick/static/js/runtime-main.42ba1dc1.js.map",
+    "static/js/2.726732dc.chunk.js": "/csc642-Mdavichick/static/js/2.726732dc.chunk.js",
+    "static/js/2.726732dc.chunk.js.map": "/csc642-Mdavichick/static/js/2.726732dc.chunk.js.map",
+    "static/js/3.b1cd3e6d.chunk.js": "/csc642-Mdavichick/static/js/3.b1cd3e6d.chunk.js",
+    "static/js/3.b1cd3e6d.chunk.js.map": "/csc642-Mdavichick/static/js/3.b1cd3e6d.chunk.js.map",
+    "index.html": "/csc642-Mdavichick/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/csc642-Mdavichick/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.726732dc.chunk.js.LICENSE.txt": "/csc642-Mdavichick/static/js/2.726732dc.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/csc642-Mdavichick/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42ba1dc1.js",
+    "static/js/2.726732dc.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.94079967.chunk.js"
+  ]
+}
